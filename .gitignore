@@ -1,0 +1,12 @@
+chave.json
+credenciais/
+
+# power bi
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# saidas geradas pelo modelo e pela automacao
+saidas/
+
+# python
+__pycache__/
